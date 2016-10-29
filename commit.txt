@@ -1,0 +1,17 @@
+commit 1f19eed5d133028d2c0904f657e1c82d6ef9e177
+Author: Joseph <jbmarflo@gmail.com>
+Date:   Sat Oct 29 01:43:04 2016 -0500
+
+    agregamos una clase
+
+commit 1bf388dba0e311e10661d284f6ecf552c4a1faa6
+Author: Joseph <jbmarflo@gmail.com>
+Date:   Sat Oct 29 01:41:52 2016 -0500
+
+    Modificamos una palabra
+
+commit d05fa697e6b29d91db5bfc2458ef039f63fd2168
+Author: Joseph <jbmarflo@gmail.com>
+Date:   Sat Oct 29 01:39:15 2016 -0500
+
+    Iniciamos
